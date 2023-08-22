@@ -40,7 +40,7 @@ export const skillsSection: SkillsSectionType = {
   data: [
     {
       title: 'Full Stack Development',
-      lottieAnimationFile: '/lottie/skills/fullstack.json', // Path of Lottie Animation JSON File
+      lottieAnimationFile: '/portfolioblue/lottie/skills/fullstack.json', // Path of Lottie Animation JSON File
       skills: [
         emoji('⚡ Building RESTful APIs Microservices in NodeJS & Express REST Framework'),
 
@@ -112,7 +112,7 @@ export const skillsSection: SkillsSectionType = {
     },
     {
       title: 'Cloud Infra-Architecture',
-      lottieAnimationFile: '/lottie/skills/cloudinfra.json', // Path of Lottie Animation JSON File
+      lottieAnimationFile: '/portfolioblue/lottie/skills/cloudinfra.json', // Path of Lottie Animation JSON File
       skills: [
         emoji('⚡ Experience of working on multiple cloud platforms like GCP and AWS'),
         emoji(
