@@ -5,6 +5,7 @@ import FeedbackCard from '../components/FeedbackCard';
 
 const Feedbacks = () => {
   return (
+    <></>
     // feedbacks && (
     //   <section className="section section-lg">
     //     <Container>
