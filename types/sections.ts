@@ -24,16 +24,16 @@ export type GreetingsType = {
 
 // * SKILLS SECTION
 
-type SoftwareSkillType = {
+export type SoftwareSkillType = {
   skillName: string;
   iconifyTag: string;
 };
 
-type SkillType = {
+export type SkillType = {
   title: string;
   lottieAnimationFile: string;
   skills: React.ReactNode[] | string[];
-  softwareSkills: SoftwareSkillType[];
+  softwareSkills: any[];
 };
 
 export type SkillsSectionType = {
