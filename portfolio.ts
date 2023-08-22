@@ -200,7 +200,7 @@ export const experience: ExperienceType[] = [
   {
     role: 'Sr. Software Engineer',
     company: 'Airasia (Malaysia)',
-    companyLogo: '/img/icons/common/airasia_logo_PNG1.png',
+    companyLogo: '/portfolioblue/img/icons/common/airasia_logo_PNG1.png',
     date: 'Jan 2022 – Present',
     desc: 'Led and managed the ongoing MRO project "Elevade Document" which focused on managing aviation and aircraft records.',
 
@@ -218,7 +218,7 @@ export const experience: ExperienceType[] = [
   {
     role: 'Senior Application Developer ',
     company: 'Maxis Broadband (Malaysia)',
-    companyLogo: '/img/icons/common/maxisbroad.png',
+    companyLogo: '/portfolioblue/img/icons/common/maxisbroad.png',
     date: 'Oct 2019 – Dec 2021',
     desc: 'Responsible for full application development life cycle management, including analysis, technical requirements gathering, design, coding, testing, and implementation within Malaysia telecommunications provider.',
     descBullets: [
@@ -232,7 +232,7 @@ export const experience: ExperienceType[] = [
   {
     role: 'Software Engineer',
     company: 'IRS Software Solutions (Malaysia)',
-    companyLogo: '/img/icons/common/new-irs-logo.png',
+    companyLogo: '/portfolioblue/img/icons/common/new-irs-logo.png',
     date: 'Apr 2015 - Sept 2019',
     desc: 'Facilitate full application development of Accounting Product (Alaya) from scratch including Sales, Purchase, and Inventory module.',
     descBullets: [
@@ -246,7 +246,7 @@ export const experience: ExperienceType[] = [
   {
     role: 'Software Engineer',
     company: 'EA link System (Malaysia)',
-    companyLogo: '/img/icons/common/104_Ea_logo_logos-512.webp',
+    companyLogo: '/portfolioblue/img/icons/common/104_Ea_logo_logos-512.webp',
     date: 'Apr 2012 - Feb 2015',
     desc: '● Managed and enhanced the Tax application (Brasstax) to achieve scalability and performance using ASP.Net C#.',
     descBullets: [
