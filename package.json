@@ -11,9 +11,7 @@
     "build": "next build && next export -o docs",
     "start": "next start",
     "lint": "next lint && prettier --check .",
-    "format": "prettier --write .",
-    "export": "next export"
-
+    "format": "prettier --write ."
   },
   "dependencies": {
     "@apollo/client": "^3.3.21",
