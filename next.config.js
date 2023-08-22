@@ -1,5 +1,5 @@
 module.exports = {
-  //basePath: "/myportfolio",
+  basePath: "/myportfolio",
   reactStrictMode: false,
   images: {
     domains: ["avatars.githubusercontent.com"],
